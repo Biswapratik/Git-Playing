@@ -8,13 +8,11 @@
 
 import UIKit
 
-class ViewController: UIViewController { //     testing
+class ViewController: UIViewController {
 
-    override func viewDidLoad() { //      testing
-        super.viewDidLoad() //      testing
+    override func viewDidLoad() {
+        super.viewDidLoad()
     }
-
-    //      testing
-
+    
 }
 
